@@ -10,7 +10,7 @@ const Home = () => {
         <p>
           Hello, I'm Kiron Roy. Welcome to my portfolio. I'm a passionate
           developer and creator. Always excited about crafting innovative
-          projects and exploring new ideas.gggggggggggggggggg
+          projects and exploring new ideas.
         </p>
         <p>
           I specialize in web development, artistic endeavors, and combining
