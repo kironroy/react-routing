@@ -84,7 +84,7 @@ textarea {
   padding-top: 10px;
   padding-bottom: 10px;
   border: 1px solid #ccc;
-  border-radius: 5px;
+  border-radius: 8px;
   font-family: "Manrope", sans-serif;
   font-weight: 500;
 }
@@ -121,6 +121,7 @@ textarea {
   input,
   textarea {
     font-size: 14px;
+    width: 90%;
   }
 
   .submit-button {
