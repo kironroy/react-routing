@@ -4,7 +4,7 @@ import "./Contact.css"; // Separate CSS for Contact
 const Contact = () => {
   return (
     <div className="contact">
-      <h1>Contact Us</h1>
+      <h1>Contact</h1>
       <form>
         <div>
           <label htmlFor="name">Name</label>

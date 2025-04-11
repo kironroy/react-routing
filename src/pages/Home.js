@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 // import "./Home.css"; // Separate CSS for Home
 
 const Home = () => {

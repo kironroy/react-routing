@@ -1,17 +1,17 @@
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: "Manrope";
+  font-family: 'Manrope';
   font-style: normal;
   font-weight: 500;
-  src: url("/src/manrope-v14-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('/src/manrope-v14-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: "Manrope";
+  font-family: 'Manrope';
   font-style: normal;
   font-weight: 700;
-  src: url("/src/manrope-v14-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('/src/manrope-v14-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 .navbar {
@@ -56,6 +56,5 @@
     background-color: #f6f613; /* Maintain hover effect for touch */
 
     color: #1c1c1c;
-
   }
 }
