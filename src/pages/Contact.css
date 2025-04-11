@@ -121,7 +121,9 @@ textarea {
   input,
   textarea {
     font-size: 14px;
-    width: 90%;
+    width: 95%;
+    padding-left: 5px;
+    margin-left: 5px;
   }
 
   .submit-button {
