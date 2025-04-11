@@ -1,5 +1,5 @@
 import React from 'react';
-import './Art.css'; // Separate CSS for Home
+import './Artwork.css'; // Separate CSS for Home
 import './BackToTop.js';
 
 const Artwork = () => {
@@ -13,16 +13,7 @@ const Artwork = () => {
     <div>
       <h1>Artwork</h1>
       <div className="gallery">
-        <img
-          src="https://cdn.glitch.global/eca19aa0-f945-40db-8788-48ebea4c6689/venice.webp?v=1736029328248"
-          alt="Black and white sketch of Venice, Italy."
-          loading="lazy"
-        />
-        <img
-          src="https://cdn.glitch.global/eca19aa0-f945-40db-8788-48ebea4c6689/vatican.webp?v=1736029335992"
-          alt="Black and white sketch of the Vatican."
-          loading="lazy"
-        />
+    
         {/* arch starts */}
         <img
           src="https://cdn.glitch.global/eca19aa0-f945-40db-8788-48ebea4c6689/venice.webp?v=1736029328248"
