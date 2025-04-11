@@ -14,6 +14,9 @@ const Navbar = () => {
       <Link to="/contact" className="navbar-link">
         Contact
       </Link>
+    <Link to="/artwork" className="navbar-link">
+      Artwork
+    </Link>
     </nav>
   );
 };
